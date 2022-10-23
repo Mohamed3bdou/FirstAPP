@@ -1,0 +1,16 @@
+D:\My-Github\githubProject1\githubProject1\bin\Debug\net5.0\githubProject1.exe
+D:\My-Github\githubProject1\githubProject1\bin\Debug\net5.0\githubProject1.deps.json
+D:\My-Github\githubProject1\githubProject1\bin\Debug\net5.0\githubProject1.runtimeconfig.json
+D:\My-Github\githubProject1\githubProject1\bin\Debug\net5.0\githubProject1.runtimeconfig.dev.json
+D:\My-Github\githubProject1\githubProject1\bin\Debug\net5.0\githubProject1.dll
+D:\My-Github\githubProject1\githubProject1\bin\Debug\net5.0\ref\githubProject1.dll
+D:\My-Github\githubProject1\githubProject1\bin\Debug\net5.0\githubProject1.pdb
+D:\My-Github\githubProject1\githubProject1\obj\Debug\net5.0\githubProject1.csproj.AssemblyReference.cache
+D:\My-Github\githubProject1\githubProject1\obj\Debug\net5.0\githubProject1.GeneratedMSBuildEditorConfig.editorconfig
+D:\My-Github\githubProject1\githubProject1\obj\Debug\net5.0\githubProject1.AssemblyInfoInputs.cache
+D:\My-Github\githubProject1\githubProject1\obj\Debug\net5.0\githubProject1.AssemblyInfo.cs
+D:\My-Github\githubProject1\githubProject1\obj\Debug\net5.0\githubProject1.csproj.CoreCompileInputs.cache
+D:\My-Github\githubProject1\githubProject1\obj\Debug\net5.0\githubProject1.dll
+D:\My-Github\githubProject1\githubProject1\obj\Debug\net5.0\ref\githubProject1.dll
+D:\My-Github\githubProject1\githubProject1\obj\Debug\net5.0\githubProject1.pdb
+D:\My-Github\githubProject1\githubProject1\obj\Debug\net5.0\githubProject1.genruntimeconfig.cache

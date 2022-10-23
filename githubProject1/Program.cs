@@ -8,7 +8,7 @@ namespace githubProject1
         {
             for(int i = 0; i <= 10; i++)
             {
-                Console.Write( "[ " + i + " ]" + "\n");
+                Console.Write( "[ " + i + " ]");
             }
             Console.WriteLine("Hello");
             Console.WriteLine("\n");

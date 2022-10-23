@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\P3\\source\\repos\\githubProject1\\githubProject1\\githubProject1.csproj": {}
+    "D:\\My-Github\\githubProject1\\githubProject1\\githubProject1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\P3\\source\\repos\\githubProject1\\githubProject1\\githubProject1.csproj": {
+    "D:\\My-Github\\githubProject1\\githubProject1\\githubProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\P3\\source\\repos\\githubProject1\\githubProject1\\githubProject1.csproj",
+        "projectUniqueName": "D:\\My-Github\\githubProject1\\githubProject1\\githubProject1.csproj",
         "projectName": "githubProject1",
-        "projectPath": "C:\\Users\\P3\\source\\repos\\githubProject1\\githubProject1\\githubProject1.csproj",
+        "projectPath": "D:\\My-Github\\githubProject1\\githubProject1\\githubProject1.csproj",
         "packagesPath": "C:\\Users\\P3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\P3\\source\\repos\\githubProject1\\githubProject1\\obj\\",
+        "outputPath": "D:\\My-Github\\githubProject1\\githubProject1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\P3\\AppData\\Roaming\\NuGet\\NuGet.Config",

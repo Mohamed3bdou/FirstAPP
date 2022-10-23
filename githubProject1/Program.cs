@@ -10,6 +10,7 @@ namespace githubProject1
             {
                 Console.Write( "[ " + i + " ]" + "\n");
             }
+            Console.WriteLine("Hello");
             Console.WriteLine("\n");
         }
     }
